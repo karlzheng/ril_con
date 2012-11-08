@@ -1,0 +1,6 @@
+
+Thx to:
+git://github.com/planetbeing/lcitk.git
+http://blog.csdn.net/bailang326/article/details/4945669
+
+
